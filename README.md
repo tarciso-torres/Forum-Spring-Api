@@ -19,6 +19,7 @@ Essa api faz parte de um estudo para melhorar conhecimentos em spring.
 * Spring Actuator
 * Swagger
 * Profiles
+* Git(Flow, Conventional)
 * JWT
 * Junit
 * Jenkins
